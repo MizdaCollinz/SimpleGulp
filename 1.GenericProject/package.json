@@ -1,0 +1,27 @@
+{
+  "name": "1.genericproject",
+  "version": "1.0.0",
+  "description": "Generic Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Collins",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.10.0",
+    "eslint-config-google": "^0.11.0",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "browser-sync": "^2.26.3",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1"
+  }
+}
